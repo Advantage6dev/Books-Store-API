@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Chinua Achebe",
+    "email": "chinua@example.com",
+    "bio": "Nigerian novelist and author of Things Fall Apart.",
+    "createdAt": "2026-01-10T09:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "name": "Chimamanda Ngozi Adichie",
+    "email": "chimamanda@example.com",
+    "bio": "Nigerian writer known for Half of a Yellow Sun.",
+    "createdAt": "2026-02-15T10:30:00.000Z"
+  },
+  {
+    "id": 3,
+    "name": "Wole Soyinka",
+    "email": "wole@example.com",
+    "bio": "Nigerian playwright, poet, and Nobel Prize laureate.",
+    "createdAt": "2026-03-20T11:00:00.000Z"
+  },
+  {
+    "id": 4,
+    "name": "Tomi Adeyemi",
+    "email": "tomi@example.com",
+    "bio": "Nigerian-American fantasy novelist.",
+    "createdAt": "2026-04-05T08:45:00.000Z"
+  },
+  {
+    "id": 5,
+    "name": "Chinelo Okparanta",
+    "email": "chinelo@example.com",
+    "bio": "Nigerian-American author and short story writer.",
+    "createdAt": "2026-05-12T14:00:00.000Z"
+  }
+]

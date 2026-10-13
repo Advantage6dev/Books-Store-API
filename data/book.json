@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Things Fall Apart",
+    "isbn": "978-0385474542",
+    "price": 8500,
+    "publishedYear": 1958,
+    "authorId": 1,
+    "createdAt": "2026-01-11T09:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "title": "Half of a Yellow Sun",
+    "isbn": "978-0007200283",
+    "price": 9500,
+    "publishedYear": 2006,
+    "authorId": 2,
+    "createdAt": "2026-02-16T10:00:00.000Z"
+  },
+  {
+    "id": 3,
+    "title": "Death and the King's Horseman",
+    "isbn": "978-0393325296",
+    "price": 7000,
+    "publishedYear": 1975,
+    "authorId": 3,
+    "createdAt": "2026-03-21T11:30:00.000Z"
+  },
+  {
+    "id": 4,
+    "title": "Children of Blood and Bone",
+    "isbn": "978-1509871353",
+    "price": 12000,
+    "publishedYear": 2018,
+    "authorId": 4,
+    "createdAt": "2026-04-06T08:30:00.000Z"
+  },
+  {
+    "id": 5,
+    "title": "Under the Udala Trees",
+    "isbn": "978-0544003446",
+    "price": 10500,
+    "publishedYear": 2015,
+    "authorId": 5,
+    "createdAt": "2026-05-13T13:00:00.000Z"
+  }
+]
